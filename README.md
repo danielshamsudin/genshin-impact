@@ -1,6 +1,7 @@
 ##  Genshin Impact Helper
 
 This application aims to assist players with everyday grinding routines.
+WIP
 
 ## Folder Structure
 
