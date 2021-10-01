@@ -11,7 +11,7 @@ public class App extends Application{
     @Override
     public void start(Stage primaryStage){
         Button btn = new Button();
-        btn.setText("Testingggg");
+        btn.setText("Test");
         btn.setOnAction(new EventHandler<ActionEvent>(){
             
             @Override
