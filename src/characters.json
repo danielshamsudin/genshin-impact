@@ -1,0 +1,217 @@
+{
+    "Albedo" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Ballad",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Fischl" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Ballad",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Kaeya" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Ballad",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Lisa" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Ballad",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Rosaria" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Ballad",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Venti" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Ballad",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Aloy" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Amber" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Barbara" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Diona" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Klee" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Sucrose" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Tartaglia" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Anemo MC" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Geo MC" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Freedom",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Bennett" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Resistance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Diluc" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Resistance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Eula" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Resistance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Jean" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Resistance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Mona" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Resistance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Noelle" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Resistance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Razor" : {
+        "domain" : "Forsaken Rift",
+        "book" : "Resistance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Keqing" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Prosperity",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Ningguang" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Prosperity",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Qiqi" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Prosperity",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Xiao" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Prosperity",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Chongyun" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Diligence",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Ganyu" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Diligence",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Hu Tao" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Diligence",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Kazuha" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Diligence",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Xiangling" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Diligence",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Beidou" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Gold",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Xinyan" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Gold",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Xingqiu" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Gold",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Yanfei" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Gold",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Zhongli" : {
+        "domain" : "Taishan Mansion",
+        "book" : "Gold",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Kokomi" : {
+        "domain" : "Violet Court",
+        "book" : "Transience",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Yoimiya" : {
+        "domain" : "Violet Court",
+        "book" : "Transience",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Electro MC" : {
+        "domain" : "Violet Court",
+        "book" : "Transience",
+        "days" : ["Monday", "Thursday"]
+    },
+    "Ayaka" : {
+        "domain" : "Violet Court",
+        "book" : "Elegance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Sara" : {
+        "domain" : "Violet Court",
+        "book" : "Elegance",
+        "days" : ["Tuesday", "Friday"]
+    },
+    "Raiden" : {
+        "domain" : "Violet Court",
+        "book" : "Light",
+        "days" : ["Wednesday", "Saturday"]
+    },
+    "Sayu" : {
+        "domain" : "Violet Court",
+        "book" : "Light",
+        "days" : ["Wednesday", "Saturday"]
+    }
+}
