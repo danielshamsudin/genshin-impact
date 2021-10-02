@@ -17,23 +17,6 @@ public class App extends Application{
 
     @Override
     public void start(Stage stage) throws IOException{
-        // Button btn = new Button();
-        // btn.setText("Test");
-        // btn.setOnAction(new EventHandler<ActionEvent>(){
-            
-        //     @Override
-        //     public void handle(ActionEvent event){
-        //         System.out.println("Clicked button");
-        //     }
-        // });
-
-        // StackPane root = new StackPane();
-        // root.getChildren().add(btn);
-
-        // Scene scene = new Scene(root, 300, 250);
-        // primaryStage.setTitle("Testing");
-        // primaryStage.setScene(scene);
-        // primaryStage.show();
         primaryStage = stage;
         FXMLLoader loader = new FXMLLoader(getClass().getResource("MainPage.fxml"));
         Parent root = loader.load();
@@ -42,11 +25,27 @@ public class App extends Application{
 
         Scene scene = new Scene(root);
         primaryStage.setScene(scene);
+        primaryStage.setTitle("Main Page");
         primaryStage.show();
-
     }
 
     public static void main(String[] args) {
         launch(args);
+    }
+
+    public void openGrindOverview() throws IOException {
+        try{
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("GrindOverview.fxml"));
+            Parent root = loader.load();
+            GrindOverviewController controller = loader.<GrindOverviewController>getController();
+            controller.setMainApp(this);
+
+            Scene scene = new Scene(root);
+            primaryStage.setScene(scene);
+            primaryStage.setTitle("Grind Overview");
+            primaryStage.show();
+        } catch (IOException exception) {
+            exception.printStackTrace();
+        }
     }
 }
